@@ -8,7 +8,7 @@ ReactDOM.render(
     <div>
         <h1>Calculator</h1>
         <Calculator />
-    </div>
+    </div >
 
     , document.getElementById('root'));
 
